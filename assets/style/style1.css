@@ -1,0 +1,18 @@
+header{
+    background-color: black;
+    height: 80px;
+    color: white;
+}
+
+.bgcolor{
+    background-color: rgb(159, 157, 157);
+}
+
+.colorfooter{
+    color: rgb(0, 0, 0);
+}
+
+footer{
+    color: white;
+    background-color: rgb(97, 95, 95);
+}
