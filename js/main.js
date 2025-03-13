@@ -28,4 +28,10 @@ cardBody.forEach(card => {
     
 });
 
+let newsletter = document.querySelector(".letter")
+newsletter.addEventListener("click",()=>{
+    alert("Tu es inscrit a la Newsletter")
+})
+
+
 
