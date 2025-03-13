@@ -5,3 +5,12 @@ card.forEach(card => {
 
     })
 });
+
+let cardbody = document.querySelectorAll(".card-body")
+cardbody.forEach(card => {
+    card.addEventListener("mouseover", ()=>{
+        card.style.backgroundColor = "rgba(41, 40, 40, 0.33)"
+        
+    })
+    
+});
