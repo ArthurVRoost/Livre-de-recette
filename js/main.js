@@ -34,4 +34,15 @@ newsletter.addEventListener("click",()=>{
 })
 
 
+let bouton = document.querySelectorAll(".btn")
+bouton[0].addEventListener("click", ()=>{
+    window.location.href ="./pages/pageCarpaccio.html"
+});
 
+bouton[1].addEventListener("click", ()=>{
+    window.location.href ="./pages/pageCroquettes.html"
+});
+
+bouton[2].addEventListener("click", ()=>{
+    window.location.href ="./pages/pageTomates.html"
+});
