@@ -23,3 +23,8 @@ footer{
 .d-flex{
     flex-wrap: wrap;
 }
+
+:hover{
+    
+    transition: 2s;
+}
