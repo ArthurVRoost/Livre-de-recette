@@ -20,3 +20,6 @@ footer{
     display: flex;
     justify-content: center;
 }
+.d-flex{
+    flex-wrap: wrap;
+}
